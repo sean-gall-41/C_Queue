@@ -11,6 +11,6 @@ queue's state is manipulated with the various implemented methods.
 # TODOS
 
 - ensure initializiation with a known capacity works for all generic types
-- port to C, using either 1) an unsafe generics-container implementation or
-2) a safe, generics-container implementation using macros to generate the 
+- port to C, using either an unsafe generics-container implementation or
+a safe, generics-container implementation using macros to generate the 
 templates
